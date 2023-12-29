@@ -1,6 +1,6 @@
 ### Prazer, eu sou a Keyth e seja muito bem-vindo!
 
-- 🔭 Atualmente sou desenvolvedora júnior fullstack.
+- 🔭 Atualmente sou desenvolvedora júnior.
 - 🌱 Estou estudando React/Typescript, Node.Js com Nest e Java com SpringBot
 - 😄 Pronomes: Ela/Dela
 
