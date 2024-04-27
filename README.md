@@ -19,13 +19,14 @@
   
 </div>
 
-##
+## GitHub Stats
 
-<h3>GitHub Stats</h3>
-
-![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Keyeight&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true&rank_icon=github")
-[![Most Used Languages](<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Keyeight&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=false&hide_border=true&rank_icon=github"/>
+<div>
+  
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Keyeight&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=282a36&title_color=ff79c6&text_color=f8f8f2&border_radius=3&border_color=44475a&icon_color=ff79c6&theme=dracula)
+[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Keyeight&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=ff79c6&hide=html,css&bg_color=282a36&text_color=6272a4&border_radius=3&border_color=44475a&count_private=true&theme=dracula)](https://github.com/mari4souza/github-readme-stats)
 <br>
+
 
  </div>
 
@@ -37,6 +38,8 @@
   <a href="https://www.linkedin.com/in/keythalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+## Generate Snake Game
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
