@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=18&pause=1000&color=F74E88&random=false&width=435&lines=Prazer%2C+eu+sou+a+Keyth+e+seja+bem-vindo!)](https://git.io/typing-svg)
-
-- 🔭 Atualmente sou desenvolvedora júnior.
-- 🌱 Estou estudando React/Typescript, Node.Js com Nest e Java com SpringBot
+- 🔭 Desenvolvedora Júnior Back-End no time.
+- 🌱 Atuando em desenvolvimento de microserviços com Java Spring Boot
+- 💻 Cursando o 3° semestre de Analíse e Desenvolvimento de Sotfware na Uninove
 - 😄 Pronomes: Ela/Dela
 
-### 👩🏼‍💻 Skills Técnicas:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=18&pause=1000&color=F74E88&random=false&width=435&lines=Skills+T%C3%A9cnicas%3A)](https://git.io/typing-svg)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,8 +18,6 @@
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   
 </div>
-
-## GitHub Stats
 
 <div>
   
@@ -38,8 +36,6 @@
   <a href="https://www.linkedin.com/in/keythalves/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-## Generate Snake Game
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
