@@ -4,9 +4,9 @@
 - 💻 Cursando o 3° semestre de Analíse e Desenvolvimento de Sotfware na Uninove
 - 😄 Pronomes: Ela/Dela
 
+## Minhas Stacks:
 
 <div style="display: inline_block"><br>
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=18&pause=1000&color=F74E88&random=false&width=435&lines=Skills+T%C3%A9cnicas%3A)](https://git.io/typing-svg)
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
