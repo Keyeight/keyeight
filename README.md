@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=18&pause=1000&color=F74E88&random=false&width=435&lines=Prazer%2C+eu+sou+a+Keyth+e+seja+bem-vindo!)](https://git.io/typing-svg)
-- 🔭 Desenvolvedora Júnior Back-End atuando na frente de microserviçoes com Java Spring Boot.
-- 🌱 Atuando em desenvolvimento de microserviços com Java Spring Boot
+- 🔭 Desenvolvedora Júnior Back-End
+- 🌱 Atuando no desenvolvimento de microserviços com Java Spring Boot
 - 💻 Cursando o 3° semestre de Analíse e Desenvolvimento de Sotfware na Uninove
 - 😄 Pronomes: Ela/Dela
 
