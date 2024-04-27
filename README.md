@@ -1,4 +1,4 @@
-### Prazer, eu sou a Keyth e seja muito bem-vindo!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F74E88&random=false&width=435&lines=Prazer%2C+eu+sou+a+Keyth+e+seja+muito+bem-vindo!)](https://git.io/typing-svg)
 
 - 🔭 Atualmente sou desenvolvedora júnior.
 - 🌱 Estou estudando React/Typescript, Node.Js com Nest e Java com SpringBot
