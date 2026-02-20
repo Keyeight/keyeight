@@ -3,6 +3,7 @@
 <p class="left"> 
 <h2> &#x1F4BB; Sobre mim </h2>
 <strong>Desenvolvedora</strong> em constante aprendizado e entusiasta em tecnologia. Comprometida com o aprendizado e trabalhando arduamente para me tornar uma desenvolvedora de alto nível. 
+  
 <ul>
   <li>
     🔭 Desenvolvedora FullStack há 2 anos e meio
