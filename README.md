@@ -1,10 +1,20 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=18&pause=1000&color=F74E88&random=false&width=435&lines=Prazer%2C+eu+sou+a+Keyth+e+seja+bem-vindo!)](https://git.io/typing-svg)
 
-Desenvolvedora em constante aprendizado e entusiasta em tecnologia. Comprometida com o aprendizado e trabalhando arduamente para me tornar uma desenvolvedora de alto nível. 
-
-- 🔭 Desenvolvedora FullStack há 2 anos e meio
-- 💻 Formada em Análise e Desenvolvimento de Sistemas 
-- 😄 Pronomes: Ela/Dela
+<p class="left"> 
+<h2> &#x1F4BB; Sobre mim </h2>
+<strong>Desenvolvedora</strong> em constante aprendizado e entusiasta em tecnologia. Comprometida com o aprendizado e trabalhando arduamente para me tornar uma desenvolvedora de alto nível. 
+<ul>
+  <li>
+    🔭 Desenvolvedora FullStack há 2 anos e meio
+  </li>
+  <li>
+    💻 Formada em Análise e Desenvolvimento de Sistemas 
+  </li>
+  <li>
+    😄 Pronomes: Ela/Dela
+  </li>
+</ul>
+</p>
 
 ## Minhas Stacks:
 
