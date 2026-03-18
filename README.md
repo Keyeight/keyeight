@@ -24,7 +24,7 @@
   <h2>&#x1F4BB; Minhas Stacks </h2>
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git,java,express,js,nodejs,react,ts,cpp,css,tailwind,html,jest" />
+    <img src="https://skillicons.dev/icons?i=docker,azure,git,java,express,js,nodejs,react,ts,cpp,css,html,jest" />
   </a>
 </p>
 </p>
